@@ -1,0 +1,1 @@
+export const BaseUrl = "http://saramsa2.pythonanywhere.com/"
